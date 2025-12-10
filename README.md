@@ -60,8 +60,7 @@ This project has no license.
 
 
 ## Important Links 🔗
-- **Repository Link:** [https://github.com/tonmoylive/household_service_provider](https://github.com/tonmoylive/household_service_provider)
-- **Live Project:** [https://sheba.infy.uk](https://sheba.infy.uk)
+- **Repository Link:** [https://github.com/tonmoylive/Network-DHCP](https://github.com/tonmoylive/Network-DHCP)
 
 
 
@@ -70,6 +69,6 @@ If you find this project helpful, consider forking it to explore and implement y
 Also, feel free to contribute, suggest improvements, report bugs, request features.
 
 <footer>
-  <p>© 2025 <a href="https://github.com/tonmoylive/household_service_provider">household_service_provider</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
+  <p>© 2025 <a href="https://github.com/tonmoylive/Network-DHCP">Network-DHCP</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
   <p> Feel free to contribute ,report bugs , request features, like and give a star ⭐ to this repository. </p>
 </footer>
