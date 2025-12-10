@@ -3,7 +3,6 @@
 [![Forks](https://img.shields.io/github/forks/tonmoylive/household_service_provider?style=social)]()
 
 
-
 This project, created in Cisco Packet Tracer, demonstrates a comprehensive network setup integrating several key services: DHCP, DNS, Email (SMTP/POP3), and a Web Server (HTTP). It's designed to simulate a small office or campus environment where clients can automatically receive network configurations, resolve domain names, exchange emails, and access a central web server.
 
 ## Network Topology
