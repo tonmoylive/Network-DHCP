@@ -68,6 +68,6 @@ If you find this project helpful, consider forking it to explore and implement y
 Also, feel free to contribute, suggest improvements, report bugs, request features.
 
 <footer>
-  <p>© 2025 <a href="https://github.com/tonmoylive/Network-DHCP">Network-DHCP</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
+  <p>© 2025 <a href="https://github.com/tonmoylive/Network-DHCP">Network-DHCP</a> by <a href="https://anik.great-site.net">MD ANIK BISWAS</a></p>
   <p> Feel free to contribute ,report bugs , request features, like and give a star ⭐ to this repository. </p>
 </footer>
